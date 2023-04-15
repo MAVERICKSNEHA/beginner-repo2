@@ -1,5 +1,3 @@
-#beginner-repo2
+#beginnner-repo2
 
-
-hi again
-git 
+hi again 
